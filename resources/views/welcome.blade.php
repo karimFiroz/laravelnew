@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Ecommerce
+                    Ecommerce 
                 </div>
 
                 <div class="links">
@@ -96,7 +96,7 @@
                     <a href="https://nova.laravel.com"target=" __blank">Nova</a>
                     <a href="https://forge.laravel.com"target=" __blank">Forge</a>
                     <a href="https://vapor.laravel.com"target=" __blank">Vapor</a>
-                  
+                  <a href="https://laravel.com/docs/7.x/migrations"target="  _blank">Migration</a>
                 </div>
             </div>
         </div>
