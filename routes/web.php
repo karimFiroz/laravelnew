@@ -13,9 +13,6 @@
 
 Route::get('/','pagesController@index');
 
+Route::get('/contact','pagesController@contact');
 
-
-Route::get('/contact', function () {
-    return view('contact');
-});
 
