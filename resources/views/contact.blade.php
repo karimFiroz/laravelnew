@@ -80,6 +80,8 @@
             <div class="content">
                 <div class="title m-b-md">
                     Ecommerce
+                    <hr>
+                    contact
                 </div>
 
                 <div class="links">
